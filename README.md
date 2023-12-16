@@ -7,19 +7,19 @@
 ## GoF의 디자인 패턴
 - GoF의 디자인 패턴에서는 객체 지향적 디자인 패턴의 카테고리를 3가지로 구분하고 있습니다.
 
-| 생성 패턴 (Creational Pattern) | 구조 패턴 (Structural Pattern) | 행동 패턴 (Behavioral Pattern) |
-|----------------------------|----------------------------|----------------------------|
-| Singleton                  | Adapter                    | Chain of Responsibility    |
-| Abstract Factory           | Bridge                     | Command                    |
-| Factory Method             | Composite                  | Interpreter                |
-| Builder                    | Decorator                  | Iterator                   |
-| Prototype                  | Facade                     | Mediator                   |
-|                            | Flyweight                  | Memento                    |
-|                            | Proxy                      | Observer                   |
-|                            |                            | State                      |
-|                            |                            | Strategy                   |
-|                            |                            | Template Method            |
-|                            |                            | Visitor                    |
+| 생성 패턴 (Creational Pattern) | 구조 패턴 (Structural Pattern) | 행동 패턴 (Behavioral Pattern)                |
+|----------------------------|----------------------------|-------------------------------------------|
+| Singleton                  | Adapter                    | Chain of Responsibility                   |
+| Abstract Factory           | Bridge                     | Command                                   |
+| Factory Method             | Composite                  | Interpreter                               |
+| Builder                    | Decorator                  | [Iterator](./docs/behavioral/iterator.md) |
+| Prototype                  | Facade                     | Mediator                                  |
+|                            | Flyweight                  | Memento                                   |
+|                            | Proxy                      | Observer                                  |
+|                            |                            | State                                     |
+|                            |                            | Strategy                                  |
+|                            |                            | Template Method                           |
+|                            |                            | Visitor                                   |
 
 
 
